@@ -2,17 +2,16 @@
 
 ## Problem #001
 
-**Title:** Tolerancing and sizes
+**Title:** Pin Aligment and hole sizes
 **Version:** V1
 **Area:** Lower receiver
 
 **Description:**
-Adjustments based on assembly with other parts
+Adjustments based on assembly with pins
 
 **Possible Causes:**
 
 * Small attachments sizes
-* Design adjustments to add
 * Thickness of holes
 * Pin alignment 
 
@@ -22,20 +21,22 @@ Adjustments based on assembly with other parts
 * Fitment issues
 * Pin alignments
 * Upper receiver fitments
-* Stock fitment
 
 ---
 
 ## Problem #002
 
-**Title:** Testing's after first manufacturing 
-**Version:** V2
+**Title:** Stock attachment and parts fitment
+**Version:** V1
 
 **Description:**
-
+Testing First Prototype with parts
 
 **Suspected Cause:**
 
 * Tolerance stack-up
+* Upper pin attachment too tight
+* Triggerguard place too tight
+* Need to check middle pin position for gearbox aligment
 
 ---
