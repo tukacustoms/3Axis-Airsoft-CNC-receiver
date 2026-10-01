@@ -2,6 +2,8 @@
 
 ## [V2] - In Progress
 
+[View Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pub?output=pdf)
+
 ### Added
 
 
