@@ -1,60 +1,63 @@
-# CHANGELOG
+# Registro de Alterações
 
-## [V2.1] - In Progress
+## [V2.1] - Em Progresso
 
-## 📊 Live Tolerance Sheet
-[View Tolerancing Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
+## 📊 Planilha de Tolerância ao Vivo
+[Ver Planilha de Tolerâncias](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
 
-### Added
+### Adicionado
 
-* Added one more screw on the back to make it more stable
+* Adicionado um parafuso a mais na parte traseira para maior estabilidade
 
-### Changed
+### Alterado
 
-* Back Wiring Spacing, making it wider and position more close to stock attachment
-* Geometry and approach to machine stock, adding central slots based by machine
+* Espaçamento de fiação traseira, tornando-a mais ampla e posicionada mais próxima ao encaixe do estoque
+* Geometria e abordagem para usinagem do estoque, adicionando slots centrais baseados na máquina
 
-### Fixed
+### Corrigido
 
-* Middle gearbox pin added -0,35mm Z axis, needed to be bit lower, From 21.65mm to 21,95mm 
-* Front Attachment for upper receiver from 14mm to 14,5mm ±0,5mm
+* Pino do gearbox do meio adicionado -0,35mm eixo Z, precisava estar um pouco mais baixo, De 21.65mm para 21,95mm 
+* Encaixe frontal para receptor superior de 14mm para 14,5mm ±0,5mm
 
+### Notas
 
-### Notes
-
-* Preparing for next prototype machining
-* Fixing measurements and tolerancing
-* Documenting progress
-
----
-
-## [V1.1] - Prototype
-
-### Added
-
-* Full receiver split system
-* Lower Manufacturing
-
-### Issues Found
-
-* Back wire output too small and positioned too low
-* Side slots of stock attachment too wide
-* Front pin spacing too tight
-* Triggerguard placing too tight
-* No Chanfer around magwell
-* Bolt alignment tolerance too tight
+* Preparando para próxima usinagem de protótipo
+* Corrigindo medidas e tolerâncias
+* Documentando progresso
 
 ---
 
-## [V1] - Initial Concept
+## [V1.1] - Protótipo
 
-### Added
+### Adicionado
 
-* Base geometry
-* Initial dimensions
+* Sistema completo de divisão do receptor
+* Manufatura Inferior
 
-### Problems
+### Problemas Encontrados
 
-* Not manufacturable in 3-axis
-* No split
-* Middle pins not aligned
+* Saída de fiação traseira muito pequena e posicionada muito baixa
+* Slots laterais do encaixe do estoque muito largos
+* Espaçamento de pino frontal muito apertado
+* Posicionamento do protetor de gatilho muito apertado
+* Sem chanfro ao redor do magwell
+* Tolerância de alinhamento do ferrolho muito apertada
+
+---
+
+## [V1] - Conceito Inicial
+
+### Adicionado
+
+* Geometria base
+* Dimensões iniciais
+
+### Problemas
+
+* Não usinável em 3-eixos
+* Sem divisão
+* Pinos do meio não alinhados
+
+---
+
+**[Ver em Inglês →](CHANGELOG.EN.md)**
