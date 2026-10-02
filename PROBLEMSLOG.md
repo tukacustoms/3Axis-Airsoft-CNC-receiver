@@ -1,42 +1,44 @@
-# Problems Log
+# Registro de Problemas
 
-## Problem #001
+## Problema #001
 
-**Title:** Pin Aligment and hole sizes
-**Version:** V1
-**Area:** Lower receiver
+**Título:** Alinhamento de Pino e Tamanhos de Furos
+**Versão:** V1
+**Área:** Receptor Inferior
 
-**Description:**
-Adjustments based on assembly with pins
+**Descrição:**
+Ajustes baseados em montagem com pinos
 
-**Possible Causes:**
+**Possíveis Causas:**
 
-* Small attachments sizes
-* Thickness of holes
-* Pin alignment 
+* Tamanhos de encaixes pequenos
+* Espessura dos furos
+* Alinhamento de pinos
 
-**Impact:**
+**Impacto:**
 
-* Affects accuracy and assembly
-* Fitment issues
-* Pin alignments
-* Upper receiver fitments
+* Afeta precisão e montagem
+* Problemas de encaixe
+* Alinhamentos de pinos
+* Encaixes do receptor superior
+
+---
+
+## Problema #002
+
+**Título:** Encaixe do estoque e ajuste de peças
+**Versão:** V1
+
+**Descrição:**
+Testando primeiro protótipo com peças
+
+**Causa Suspeita:**
+
+* Acúmulo de tolerâncias
+* Encaixe de pino superior muito apertado
+* Protetor de gatilho posicionado muito apertado
+* Necessário verificar posição do pino do meio para alinhamento do gearbox
 
 ---
 
-## Problem #002
-
-**Title:** Stock attachment and parts fitment
-**Version:** V1
-
-**Description:**
-Testing First Prototype with parts
-
-**Suspected Cause:**
-
-* Tolerance stack-up
-* Upper pin attachment too tight
-* Triggerguard place too tight
-* Need to check middle pin position for gearbox aligment
-
----
+**[Ver em Inglês →](PROBLEMSLOG.EN.md)**
