@@ -20,12 +20,15 @@
 
 * Middle gearbox pin adjusted by -0.35 mm on the Z axis; it needed to sit slightly lower, from 21.65 mm to 21.95 mm
 * Front upper-receiver attachment adjusted from 14.00 mm to 14.50 mm ± 0.50 mm
+* Alignment of the Magwell internal structure, 0.5mm unaligned to the left
+* Extended Wire port on the back to 15mm x 10mm instead of 10mm x 10mm
 
 ### Notes
 
 * Preparing the next prototype machining run
 * Refining measurements and tolerances
 * Documenting progress
+* Thinking of an approach of the back stock attachment to CNC
 
 ---
 
