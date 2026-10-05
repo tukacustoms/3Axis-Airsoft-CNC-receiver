@@ -3,7 +3,7 @@
 ## Problem #001
 
 **Title:** Pin Aligment and hole sizes
-**Version:** V1
+**Version:** V2.1
 **Area:** Lower receiver
 
 **Description:**
@@ -27,7 +27,7 @@ Adjustments based on assembly with pins
 ## Problem #002
 
 **Title:** Stock attachment and parts fitment
-**Version:** V1
+**Version:** V2.1
 
 **Description:**
 Testing First Prototype with parts
@@ -40,5 +40,17 @@ Testing First Prototype with parts
 * Need to check middle pin position for gearbox aligment
 
 ---
+
+## Problem #003
+
+**Title:** Magwell Alignment 
+**Version:** V2.1
+
+**Description:**
+Magwell Back-wall 0.5mm unaligned 
+
+**Suspected Cause:**
+
+* No verification of measurements when transfering the magwell sketches from past vertions into new version
 
 **[Ver em Português →](PROBLEMSLOG.md)**
