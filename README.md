@@ -1,5 +1,9 @@
 # Tuka Customs × Wardog — Receiver Development
 
+# Lower Receiver V2.1 
+
+<img width="800" height="353" alt="GIf lower" src="https://github.com/user-attachments/assets/a380518c-293b-4920-8a79-5a760684fffb" />
+
 **🌍 Languages:** [English](#english) | [Português](#português)
 
 ---
@@ -23,7 +27,7 @@ This repository documents the complete development lifecycle of a high-performan
 
 | Aspect | Details |
 |--------|---------|
-| **Version** | V2 Prototype |
+| **Version** | V2 Prototype Lower |
 | **Stage** | Fitment and structural validation |
 | **Development** | Active iteration and refinement |
 
@@ -86,7 +90,7 @@ Este repositório documenta o ciclo completo de desenvolvimento de uma plataform
 
 | Aspecto | Detalhes |
 |---------|----------|
-| **Versão** | Protótipo V2 |
+| **Versão** | Protótipo V2 Lower |
 | **Estágio** | Ajuste de encaixe e validação estrutural |
 | **Desenvolvimento** | Iteração ativa e refinamento |
 
