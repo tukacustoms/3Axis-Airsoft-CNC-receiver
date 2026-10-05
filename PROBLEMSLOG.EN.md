@@ -53,4 +53,4 @@ Magwell Back-wall 0.5mm unaligned
 
 * No verification of measurements when transfering the magwell sketches from past vertions into new version
 
-**[Ver em Português →](PROBLEMSLOG.md)**
+**[Ver em Português →](PROBLEMSLOG.PT.md)**
