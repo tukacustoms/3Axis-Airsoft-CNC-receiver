@@ -4,70 +4,7 @@
 
 <img width="800" height="353" alt="GIf lower" src="https://github.com/user-attachments/assets/a380518c-293b-4920-8a79-5a760684fffb" />
 
-**🌍 Languages:** [English](#english) | [Português](#português)
-
----
-
-## English
-
-### Overview
-
-This repository documents the complete development lifecycle of a high-performance airsoft receiver platform, from concept to manufacturing-ready design. It captures the engineering process behind a product built for real-world use, strength, and practical fabrication.
-
-**Core Focus:**
-* 3-axis CNC manufacturability
-* Modular split architecture
-* Strength-to-weight optimization
-* Real-world airsoft performance
-* Precision engineering and prototype iteration
-
----
-
-### Current Status
-
-| Aspect | Details |
-|--------|---------|
-| **Version** | V2 Prototype Lower |
-| **Stage** | Fitment and structural validation |
-| **Development** | Active iteration and refinement |
-
----
-
-### Development Flow
-
-1. Concept ideation
-2. CAD design
-3. Simulation and testing
-4. Prototype iteration
-5. Problem identification
-6. Solution implementation
-7. Manufacturing preparation
-
----
-
-### Key Engineering Goals
-
-* Clean, manufacturable geometry optimized for 3-axis CNC machining
-* Minimal fasteners while preserving stiffness and rigidity
-* Modular split-receiver design for improved serviceability and flexibility
-* Premium design language with functional performance as the priority
-* Practical engineering decisions based on real prototype feedback
-
----
-
-### Documentation
-
-📊 [Live Tolerance Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
-
-See [CHANGELOG.md](CHANGELOG.md) for version history and design notes.
-
----
-
-### Notes
-
-All files in this repository are intended for study, development, and engineering exploration. Redistribution or commercial use without explicit written permission is not allowed.
-
-Tuka Customs™
+**🌍 Idiomas:** [Português](#português) | [English](#english)
 
 ---
 
@@ -75,7 +12,7 @@ Tuka Customs™
 
 ### Visão Geral
 
-Este repositório documenta o ciclo completo de desenvolvimento de uma plataforma de receptor airsoft de alto desempenho, desde o conceito até o design pronto para fabricação. Ele registra o processo de engenharia por trás de um produto desenvolvido para uso real, resistência e fabricação prática.
+Este repositório documenta o ciclo completo de desenvolvimento de uma plataforma de receptor airsoft de alto desempenho, desde o conceito até o design pronto para fabricação. Ele registra o processo de engenharia por trás de um receptor de alto desempenho, otimizado para fabricação CNC e desempenho prático em campo.
 
 **Foco Principal:**
 * Manufacturabilidade em CNC de 3 eixos
@@ -90,7 +27,7 @@ Este repositório documenta o ciclo completo de desenvolvimento de uma plataform
 
 | Aspecto | Detalhes |
 |---------|----------|
-| **Versão** | Protótipo V2 Lower |
+| **Versão** | Protótipo V2.1 Lower |
 | **Estágio** | Ajuste de encaixe e validação estrutural |
 | **Desenvolvimento** | Iteração ativa e refinamento |
 
@@ -129,5 +66,68 @@ Consulte [CHANGELOG.md](CHANGELOG.md) para histórico de versões e notas de des
 ### Observações
 
 Todos os arquivos neste repositório são destinados a estudo, desenvolvimento e exploração de engenharia. Redistribuição ou uso comercial sem permissão expressa por escrito não é permitido.
+
+Tuka Customs™
+
+---
+
+## English
+
+### Overview
+
+This repository documents the complete development lifecycle of a high-performance airsoft receiver platform, from concept to manufacturing-ready design. It captures the engineering process behind a high-performance receiver, optimized for CNC manufacturing and practical real-world airsoft performance.
+
+**Core Focus:**
+* 3-axis CNC manufacturability
+* Modular split architecture
+* Strength-to-weight optimization
+* Real-world airsoft performance
+* Precision engineering and prototype iteration
+
+---
+
+### Current Status
+
+| Aspect | Details |
+|--------|---------|
+| **Version** | V2.1 Prototype Lower |
+| **Stage** | Fitment and structural validation |
+| **Development** | Active iteration and refinement |
+
+---
+
+### Development Flow
+
+1. Concept ideation
+2. CAD design
+3. Simulation and testing
+4. Prototype iteration
+5. Problem identification
+6. Solution implementation
+7. Manufacturing preparation
+
+---
+
+### Key Engineering Goals
+
+* Clean, manufacturable geometry optimized for 3-axis CNC machining
+* Minimal fasteners while preserving stiffness and rigidity
+* Modular split-receiver design for improved serviceability and flexibility
+* Premium design language with functional performance as the priority
+* Practical engineering decisions based on real prototype feedback
+
+---
+
+### Documentation
+
+📊 [Live Tolerance Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
+
+See [CHANGELOG.md](CHANGELOG.md) for version history and design notes.
+
+---
+
+### Notes
+
+All files in this repository are intended for study, development, and engineering exploration. Redistribution or commercial use without explicit written permission is not allowed.
 
 Tuka Customs™
