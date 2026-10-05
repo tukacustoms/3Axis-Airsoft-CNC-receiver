@@ -7,23 +7,23 @@
 
 ### Adicionado
 
-* Adicionado um parafuso a mais na parte traseira para maior estabilidade
+* Adicionado mais um parafuso na parte traseira para melhorar a estabilidade
 
 ### Alterado
 
-* Espaçamento de fiação traseira, tornando-a mais ampla e posicionada mais próxima ao encaixe do estoque
-* Geometria e abordagem para usinagem do estoque, adicionando slots centrais baseados na máquina
+* Ajustado o espaçamento da fiação traseira para torná-lo mais amplo e mais próximo da posição de fixação do estoque
+* Geometria e abordagem de usinagem do estoque revisadas, adicionando slots centrais com base nas restrições da máquina
 
 ### Corrigido
 
-* Pino do gearbox do meio adicionado -0,35mm eixo Z, precisava estar um pouco mais baixo, De 21.65mm para 21,95mm 
-* Encaixe frontal para receptor superior de 14mm para 14,5mm ±0,5mm
+* Pino do gearbox do meio ajustado em -0,35 mm no eixo Z; ele precisava ficar um pouco mais baixo, de 21,65 mm para 21,95 mm
+* Fixação frontal do receptor superior ajustada de 14,00 mm para 14,50 mm ± 0,50 mm
 
 ### Notas
 
-* Preparando para próxima usinagem de protótipo
-* Corrigindo medidas e tolerâncias
-* Documentando progresso
+* Preparando a próxima usinagem do protótipo
+* Refinando medidas e tolerâncias
+* Documentando o progresso
 
 ---
 
@@ -32,14 +32,14 @@
 ### Adicionado
 
 * Sistema completo de divisão do receptor
-* Manufatura Inferior
+* Manufatura inferior
 
 ### Problemas Encontrados
 
 * Saída de fiação traseira muito pequena e posicionada muito baixa
 * Slots laterais do encaixe do estoque muito largos
-* Espaçamento de pino frontal muito apertado
-* Posicionamento do protetor de gatilho muito apertado
+* Espaçamento do pino frontal muito apertado
+* Ajuste do protetor de gatilho muito apertado
 * Sem chanfro ao redor do magwell
 * Tolerância de alinhamento do ferrolho muito apertada
 
@@ -54,9 +54,9 @@
 
 ### Problemas
 
-* Não usinável em 3-eixos
-* Sem divisão
-* Pinos do meio não alinhados
+* Não usinável em 3 eixos
+* Sem design dividido
+* Pinos do meio desalinhados
 
 ---
 
