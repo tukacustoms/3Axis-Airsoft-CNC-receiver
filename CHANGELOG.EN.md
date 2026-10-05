@@ -1,6 +1,8 @@
 # Changelog
 
-## [V2.1] - In Progress
+## [V2.1] - In Progress - Lower Adjustments and testing
+
+<img width="800" height="353" alt="GIf lower" src="https://github.com/user-attachments/assets/ceafa13b-1cca-4680-ab2b-c2eb4f4a9d7a" />
 
 ## 📊 Live Tolerance Sheet
 [View Tolerancing Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
