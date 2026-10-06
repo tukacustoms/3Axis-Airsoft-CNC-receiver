@@ -59,7 +59,7 @@ Este repositório documenta o ciclo completo de desenvolvimento de uma plataform
 
 📊 [Planilha de Tolerância em Tempo Real](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
 
-Consulte [CHANGELOG.md](CHANGELOG.md) para histórico de versões e notas de desenvolvimento.
+Consulte [CHANGELOG.PT.md](CHANGELOG.PT.md) para histórico de versões e notas de desenvolvimento.
 
 ---
 
