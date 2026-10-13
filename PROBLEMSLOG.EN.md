@@ -53,4 +53,19 @@ Magwell Back-wall 0.5mm unaligned
 
 * No verification of measurements when transfering the magwell sketches from past vertions into new version
 
+---
+
+## Problem #004
+
+**Title:** Front pin Front Wall Thickness
+**Version:** V2.1
+
+**Description:**
+-1mm Front wall to make the handguards sit flush into the receiver, needs testing to make sure it needed this adjustment, based and tested with an Retroarms upper receiver
+
+**Suspected Cause:**
+
+* Not sure about this part, since the upper kit looks exactly fit, probably just compatibility between them ( different receiver sets )
+
+
 **[Ver em Português →](PROBLEMSLOG.PT.md)**
