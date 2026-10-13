@@ -55,4 +55,18 @@ Parede traseira do magwell desalinhada em 0,5 mm.
 
 ---
 
+## Problema #004
+
+**Título:** Espessura da Parede Frontal do Pino Frontal
+**Versão:** V2.1
+
+**Descrição:**
+-1 mm na parede frontal para fazer os handguards ficarem nivelados no receptor, precisa de testes para confirmar se este ajuste era necessário, com base e teste com um receptor superior Retroarms
+
+**Causa Suspeita:**
+
+* Não tenho certeza desta parte, já que o kit superior parece encaixar exatamente, provavelmente é apenas compatibilidade entre eles (conjuntos de receptores diferentes)
+
+---
+
 **[Ver em Inglês →](PROBLEMSLOG.EN.md)**
