@@ -1,10 +1,10 @@
 # Registro de Alterações
 
-## [V2.1] - Em Progresso - Ajustes de baixo e testes
+## [V2.1] - Em Progresso - Ajustes do lower e testes
 
 <img width="800" height="353" alt="GIf lower" src="https://github.com/user-attachments/assets/ceafa13b-1cca-4680-ab2b-c2eb4f4a9d7a" />
 
-## 📊 Planilha de Tolerância ao Vivo
+## 📊 Planilha de Tolerância em Tempo Real
 [Ver Planilha de Tolerâncias](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlRYLabEViV7NwHaAVIFM0fxUU2meorLAH7MinPs9JdZU5DS4jZGwKml-FSMt3wGhP4GT0s8sfwif9/pubhtml)
 
 ### Adicionado
@@ -13,12 +13,12 @@
 
 ### Alterado
 
-* Ajustado o espaçamento da fiação traseira para torná-lo mais amplo e mais próximo da posição de fixação do estoque
+* Ajustado o espaçamento da fiação traseira para deixá-lo mais amplo e mais próximo da posição de fixação do estoque
 * Geometria e abordagem de usinagem do estoque revisadas, adicionando slots centrais com base nas restrições da máquina
 
 ### Corrigido
 
-* Pino do gearbox do meio ajustado em -0,35 mm no eixo Z; ele precisava ficar um pouco mais baixo, de 21,65 mm para 21,95 mm
+* Pino do gearbox central ajustado em -0,35 mm no eixo Z; ele precisava ficar um pouco mais baixo, de 21,65 mm para 21,95 mm
 * Fixação frontal do receptor superior ajustada de 14,00 mm para 14,50 mm ± 0,50 mm
 * Alinhamento da estrutura interna do magwell, 0,5 mm desalinhado para a esquerda
 * Porta de fiação traseira estendida para 15 mm x 10 mm em vez de 10 mm x 10 mm
@@ -26,7 +26,7 @@
 ### Notas
 
 * Preparando a próxima usinagem do protótipo
-* Refinando medidas e tolerâncias
+* Refinando medições e tolerâncias
 * Documentando o progresso
 * Pensando em uma abordagem para a fixação traseira do estoque em CNC
 
@@ -36,8 +36,8 @@
 
 ### Adicionado
 
-* Sistema completo de divisão do receptor
-* Manufatura inferior
+* Sistema completo de receptor dividido
+* Fabricação do receptor inferior
 
 ### Problemas Encontrados
 
@@ -61,7 +61,7 @@
 
 * Não usinável em 3 eixos
 * Sem design dividido
-* Pinos do meio desalinhados
+* Pinos centrais desalinhados
 
 ---
 
