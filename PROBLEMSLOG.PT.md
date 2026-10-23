@@ -2,23 +2,23 @@
 
 ## Problema #001
 
-**Título:** Alinhamento de Pinos e Tamanhos de Furos
+**Título:** Alinhamento de pinos e tamanhos dos furos
 **Versão:** V2.1
-**Área:** Receptor Inferior
+**Área:** Receptor inferior
 
 **Descrição:**
 Ajustes baseados na montagem com pinos.
 
 **Possíveis Causas:**
 
-* Encaixes pequenos
+* Tamanhos pequenos dos encaixes
 * Espessura dos furos
 * Alinhamento dos pinos
 
 **Impacto:**
 
 * Afeta a precisão e a montagem
-* Problemas de encaixe
+* Problemas de ajuste
 * Desalinhamento dos pinos
 * Ajuste do receptor superior
 
@@ -26,7 +26,7 @@ Ajustes baseados na montagem com pinos.
 
 ## Problema #002
 
-**Título:** Encaixe do Estoque e Ajuste de Peças
+**Título:** Encaixe do estojo/estoque e ajuste de peças
 **Versão:** V2.1
 
 **Descrição:**
@@ -37,7 +37,7 @@ Testando o primeiro protótipo com peças.
 * Acúmulo de tolerâncias
 * Encaixe do pino superior muito apertado
 * Posicionamento do protetor de gatilho muito apertado
-* Necessário verificar a posição do pino do meio para o alinhamento do gearbox
+* Necessário verificar a posição do pino central para o alinhamento da gearbox
 
 ---
 
@@ -57,15 +57,15 @@ Parede traseira do magwell desalinhada em 0,5 mm.
 
 ## Problema #004
 
-**Título:** Espessura da Parede Frontal do Pino Frontal
+**Título:** Espessura da parede frontal do pino frontal
 **Versão:** V2.1
 
 **Descrição:**
--1 mm na parede frontal para fazer os handguards ficarem nivelados no receptor, precisa de testes para confirmar se este ajuste era necessário, com base e teste com um receptor superior Retroarms
+-1 mm na parede frontal para fazer os handguards ficarem nivelados no receptor; precisa de testes para confirmar se esse ajuste era necessário, com base em testes com um receptor superior Retroarms
 
 **Causa Suspeita:**
 
-* Não tenho certeza desta parte, já que o kit superior parece encaixar exatamente, provavelmente é apenas compatibilidade entre eles (conjuntos de receptores diferentes)
+* Não tenho certeza desta parte, já que o kit superior parece encaixar exatamente; provavelmente é apenas compatibilidade entre eles (conjuntos de receptores diferentes)
 
 ---
 
